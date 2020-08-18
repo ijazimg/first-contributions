@@ -152,6 +152,7 @@ Tahir Ali
 - [Michael Berkowitz](https://github.com/meberko)
 - [William Mosquera](https://github.com/wjmmk)
 - [Ashild Kummen](https://github.com/ashildkummen)
+-[Ijaz shoaib] (https://github.com/ijazimg)
 Mike Porter
 - [Bhargav Kulkarni](https://github.com/bhargavpk)
 - [Aashutosh Sahni](https://github.com/AashutoshSahni)
